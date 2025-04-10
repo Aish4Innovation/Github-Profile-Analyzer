@@ -11,5 +11,3 @@ A simple React web app to fetch and analyze any GitHub user's profile and reposi
 - 🌗 Toggle between Light and Dark theme
 - 🎨 Background image for a better visual experience
 
-## 📸 Preview
-![Uploading image.png…]()
